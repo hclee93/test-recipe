@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Breakfast"
+  },
+  {
+    "id": 2,
+    "name": "Lunch"
+  },
+  {
+    "id": 3,
+    "name": "Dinner"
+  },
+  {
+    "id": 4,
+    "name": "Dessert"
+  },
+  {
+    "id": 5,
+    "name": "Appetizer"
+  },
+  {
+    "id": 6,
+    "name": "Beverage"
+  },
+  {
+    "id": 7,
+    "name": "Soup"
+  },
+  {
+    "id": 8,
+    "name": "Salad"
+  },
+  {
+    "id": 100000,
+    "name": "Other"
+  }
+]

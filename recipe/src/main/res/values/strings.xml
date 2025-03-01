@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">Back</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="delete_recipe_confirmation_msg">Are you sure want to delete this recipe?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="select_recipe_category_title">Select Recipe Category</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="discard">Discard</string>
+    <string name="exit_edit_recipe_reminder_msg">You have changes that haven\'t been saved. Are you sure you want to quit editing? Unsaved changes will be discarded.</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="edit_ingredient">Edit Ingredient</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="add">Add</string>
+    <string name="add_step">Add Step</string>
+    <string name="edit_step">Edit Step</string>
+    <string name="step">Step</string>
+    <string name="add_image">Add Image</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="category">Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="edit_category">Edit Category</string>
+    <string name="delete_ingredient">Delete Ingredient</string>
+    <string name="delete_step">Delete Step</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="save">Save</string>
+</resources>

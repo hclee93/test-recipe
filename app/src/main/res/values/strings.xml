@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecipeTest</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="recipes">Recipes</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="no_recipes_found">No recipes found.</string>
+    <string name="category_field_required">Category is required.</string>
+    <string name="ingredient_field_required">Ingredients is required.</string>
+    <string name="recipe_image_field_required">Recipe image is required.</string>
+    <string name="recipe_name_field_required">Recipe name is required.</string>
+    <string name="recipe_step_field_required">Steps is required</string>
+    <string name="close">Close</string>
+    <string name="select_category_for_filter_title">Select Category for filter</string>
+    <string name="apply">Apply</string>
+</resources>
